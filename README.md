@@ -1,2 +1,2 @@
-# labsite.github.io-
+# labsite.github.io
 My site for Lab
